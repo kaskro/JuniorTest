@@ -1,0 +1,39 @@
+.box-style {
+	display: inline-block;
+	width: 240px;
+    height: 200px;
+	margin-left: 20px;
+	margin-top: 20px;
+	padding: 10px;
+	border: solid black 1px;
+	-webkit-box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	box-sizing: border-box;
+    background-color: #E8EFFC;
+}
+
+.box-style p {
+	text-align: center;
+}
+
+.my-btn {
+	border: 1px solid black;
+	background-color: #FFFFFF;
+    padding: 4px;
+}
+
+a.button {
+    text-decoration: none;
+    background-color: #FFFFFF;
+    color: #000022;
+    border: 1px solid black;
+    padding: 4px;
+}
+
+a.button:hover {
+    text-decoration: none;
+    background-color: #FFFFFF;
+    color: #000022;
+    border: 1px solid black;
+    padding: 4px;
+}
